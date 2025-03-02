@@ -4,9 +4,9 @@
     "factorio_version": "2.0",
     "title": "Useful Methane",
     "author": "neavilos",
-    "contact": "",
+    "contact": "https://github.com/neavilos/Useful-Methane/tree/master",
     "description": "Wish you could do more with Cerysian methane than flatulate? Look no further than this mod! Useful Methane introduces a logistical challenge that requires science imports to Cerys to research the methane technology chain and exports of barreled methane to the inner-planets. These technologies provide powerful new recipes biochamber recipes. Make your Gleba spaghetti even more rewarding!",
-    "homepage": "",
+    "homepage": "https://github.com/neavilos/Useful-Methane/tree/master",
     "dependencies": [
         "base >= 2.0.32",
         "space-age >= 2.0.32",
