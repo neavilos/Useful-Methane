@@ -1,0 +1,2 @@
+# USEFUL METHANE
+Wish you could do more with Cerysian methane than flatulate? Look no further than this mod! Useful Methane introduces a logistical challenge that requires science imports to Cerys to research the methane technology chain and exports of barreled methane to the inner-planets. These technologies provide powerful new recipes biochamber recipes. Make your Gleba spaghetti even more rewarding!
