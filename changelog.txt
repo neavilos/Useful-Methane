@@ -4,3 +4,9 @@ Date: 2025-03-01
   Features:
     - Initial mod release.
     - Add two technology chains involving methane exports to inner-planets.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 2025-03-08
+  Features:
+    - Updated thumbnail to use Cerys and actual Cerys methane icon.
+    - Fixed mod description grammar.
