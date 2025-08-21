@@ -1,6 +1,6 @@
 {
     "name": "Useful-Methane",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "factorio_version": "2.0",
     "title": "Useful Methane",
     "author": "neavilos",
@@ -10,7 +10,7 @@
     "dependencies": [
         "base >= 2.0.32",
         "space-age >= 2.0.32",
-        "Cerys-Moon-of-Fulgora >= 2.3.0",
+        "Cerys-Moon-of-Fulgora >= 4.0.0",
         "PlanetsLib >= 1.2.10"
     ],
     "space_travel_required": true,
