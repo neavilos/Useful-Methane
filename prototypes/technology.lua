@@ -10,8 +10,8 @@ data:extend({{
     icon_size = 256,
     unit = {
         count = 2000,
-        ingredients = {{"automation-science-pack", 1}, {"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
-                       {"production-science-pack", 1}, {"utility-science-pack", 1}, {"agricultural-science-pack", 1}},
+        ingredients = {{"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
+                       {"production-science-pack", 1}, {"space-science-pack", 1}, {"agricultural-science-pack", 1}},
         time = 60
     }
 }, {
@@ -29,8 +29,8 @@ data:extend({{
     icon_size = 256,
     unit = {
         count = 1000,
-        ingredients = {{"automation-science-pack", 1}, {"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
-                       {"production-science-pack", 1}, {"utility-science-pack", 1}, {"agricultural-science-pack", 1}},
+        ingredients = {{"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
+                       {"production-science-pack", 1}, {"space-science-pack", 1}, {"agricultural-science-pack", 1}},
         time = 60
     }
 }, {
@@ -46,8 +46,8 @@ data:extend({{
     prerequisites = {"biogas-catalyzation"},
     unit = {
         count = 1000,
-        ingredients = {{"automation-science-pack", 1}, {"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
-                       {"production-science-pack", 1}, {"utility-science-pack", 1}, {"agricultural-science-pack", 1}},
+        ingredients = {{"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
+                       {"production-science-pack", 1}, {"space-science-pack", 1}, {"agricultural-science-pack", 1}},
         time = 60
     },
     upgrade = true
@@ -64,8 +64,8 @@ data:extend({{
     prerequisites = {"bioflux-productivity-1"},
     unit = {
         count_formula = "2^(L-1)*1000",
-        ingredients = {{"automation-science-pack", 1}, {"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
-                       {"production-science-pack", 1}, {"utility-science-pack", 1}, {"agricultural-science-pack", 1}},
+        ingredients = {{"logistic-science-pack", 1}, {"cerysian-science-pack", 1},
+                       {"production-science-pack", 1}, {"space-science-pack", 1}, {"agricultural-science-pack", 1}},
         time = 60
     },
     max_level = "infinite",
