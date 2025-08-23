@@ -5,7 +5,7 @@ data:extend({{
         type = "unlock-recipe",
         recipe = "bioflux-enrichment"
     }},
-    prerequisites = {"planetslib-cerys-cargo-drops", "agricultural-science-pack"},
+    prerequisites = {"planetslib-cerys-cargo-drops", "agricultural-science-pack", "production-science-pack"},
     icon = "__space-age__/graphics/technology/bioflux.png",
     icon_size = 256,
     unit = {
